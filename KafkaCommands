@@ -1,0 +1,21 @@
+Zookeeper Command 
+cd /Users/aditya/Downloads/apache-zookeeper-3.9.1-bin
+START - bin/zkServer.sh start
+END - bin/zkServer.sh stop
+
+
+Kafka Server Command 
+cd /Users/aditya/Downloads/kafka_2.13-3.6.0
+START - bin/kafka-server-start.sh config/server.properties 
+END - bin/kafka-server-stop.sh
+
+
+Producer File 
+python3 Producer.py
+
+
+Consumer File
+python3 Consumer.py
+
+
+
