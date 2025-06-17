@@ -53,7 +53,7 @@ Formula-1DM2/
 │   ├── Basic.twb
 │   ├── Formula1_StaticDashboard.twb
 │   ├── Formula1_StreamingDashboard.twbx
-│   └── Superstore.twbx
+│   
 │
 ├── presentations/           # Presentation slides for sharing findings
 │   └── Dataviz 2 Day 1.pptx
